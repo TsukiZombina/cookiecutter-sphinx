@@ -3,7 +3,7 @@ Cookiecutter Sphinx Minimal
 
 A minimal Cookiecutter Sphinx project
 
-To change language, change `language = es` in conf.py.
+To change language, change `language = es` in conf.py, also, don't forget to change Author.
 
 Project Organization
 --------------------
